@@ -1,0 +1,55 @@
+/* Spencer Coca 4/11/2022 */
+
+body {
+    background-color: darkgrey;
+}
+
+.unorderedlist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  .photocenter {
+    background-image: url('w3css.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .color1{
+    color: rgb(255, 136, 0);
+  }
+
+  .color2{
+    color: rgb(255, 136, 0);
+    font-style: italic;
+  }
+
+  .color3{
+    color: rgb(255, 136, 0);
+    font-style: italic;
+    font: bold;
+  }
+
+  .italic{
+    font-style: italic;
+  }
+
+  .diffont{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
